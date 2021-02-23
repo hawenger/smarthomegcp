@@ -13,7 +13,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     let intentMap = new Map();
     intentMap.set('Default Welcome Intent', welcome);
     intentMap.set('Default Fallback Intent', fallback);
-    intentMap.set('New Entry', newEntryHandler);
+    intentMap.set('New Entry', newEntryHandler2);
 
     return intentMap;
   }
