@@ -15,32 +15,32 @@
 Trained to differentiate between date and diary entry. 
 
 
-**Example:**
+#### **Example:**
 
-User: *"Today I found a pile of nickles next to my shoe."*
+**USER**      *"Today I found a pile of nickles next to my shoe."*
 
-VA: *Sounds like you had a day. I've saved your journal entry for* **DATE** *"*
+**VA**        *"Sounds like you had a day. I've saved your journal entry for* **DATE** *"*
 
 
 
 If user does not include date or sentence, user will be prompted by virtual assistant to speak date or sentence until information is succesfully logged.
 
 
-**Example:**
+#### **Example:**
 
-User: *"I listened to Prince."*
+**USER**      *"I listened to Prince."*
 
-VA: *"When did this happen?"*
+**VA**        *"When did this happen?"*
 
-User: *"Yesterday"*
+**USER**      *"Yesterday"*
 
-VA: *"Got your entry for* **DATE** *"*
+**VA**        *"Got your entry for* **DATE** *"*
 
 
 
 If virtual assistant does not understand user, the virtual assistant will declare its lack of comprehension.
 
 
-**Example:**
+#### **Example:**
 
-VA: *"I missed that, say that again?"*
+**VA**        *"I missed that, say that again?"*
