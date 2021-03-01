@@ -32,7 +32,7 @@ User: *"I listened to Prince."*
 
 VA: *"When did this happen?"*
 
-User: *"Yesterday."*
+User: *"Yesterday"*
 
 VA: *"Got your entry for* **DATE** *"*
 
@@ -43,4 +43,4 @@ If virtual assistant does not understand user, the virtual assistant will declar
 
 **Example:**
 
-VA: *"I missed that, say that again"*
+VA: *"I missed that, say that again?"*
