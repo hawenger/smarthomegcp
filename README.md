@@ -19,7 +19,7 @@ Trained to differentiate between date and diary entry.
 
 User: *"Today I found a pile of nickles next to my shoe."*
 
-VA: *Sounds like you had a day. I've saved your journal entry for* DATE *"*
+VA: *Sounds like you had a day. I've saved your journal entry for* **DATE** *"*
 
 
 
@@ -34,7 +34,7 @@ VA: *"When did this happen?"*
 
 User: *"Yesterday."*
 
-VA: *"Got your entry for* DATE *"*
+VA: *"Got your entry for* **DATE** *"*
 
 
 
